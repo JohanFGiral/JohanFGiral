@@ -16,11 +16,12 @@
 
 <!-- Iconos de contacto -->
 <p align="center">
-  <a href="[www.linkedin.com/in/JFDwhite13]"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="[https://twitter.com/JohanNicolsFor1]"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter</a>
-  <a href="wa.me/573133510833"><img src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=whatsapp&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/JFDwhite13"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/JohanNicolsFor1"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://wa.me/573133510833"><img src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="[Enlace a tu perfil de GitHub]"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
+
 <!-- Intereses y conocimientos -->
 <h2 align="center">Intereses y conocimientos</h2>
 
