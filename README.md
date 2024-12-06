@@ -29,7 +29,7 @@
   <strong>Intereses:</strong> Me interesa mucho el desarrollo web, el desarrollo orientado a objetos y la ciencia de datos
 </p>
 <p align="center">
-  <strong>Conocimientos:</strong> HTML, CSS, JavaScript y un poco de python, sin embargo actualmente aprendo sql y java
+  <strong>Conocimientos Basicos en:</strong> HTML, CSS, JavaScript, Python y C++
 </p> 
 <!-- Estadísticas -->
 <h2 align="center">Estadísticas</h2>
