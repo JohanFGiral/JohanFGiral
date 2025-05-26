@@ -2,7 +2,7 @@
 <h1 align="center">¡Hola, soy Johan Nicolas Forero Giral!</h1>
 <!-- Columna para la imagen -->
 <p align="center">
-  <img src="https://github.com/JFDwhite13.png" alt="Foto de perfil" width="200" height="200">
+  <img src="https://github.com/JohanFGiral.png" alt="Foto de perfil" width="200" height="200">
 </p>
 
 <!-- Columna para el texto -->
@@ -34,5 +34,5 @@
 <!-- Estadísticas -->
 <h2 align="center">Estadísticas</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JFDwhite13&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohanFGiral&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
 </p>
